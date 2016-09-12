@@ -1,0 +1,59 @@
+ /* parrafos con datos */
+
+
+.contenedor-interno-2{
+ 	margin: 30px auto;
+ 	animation: opaco 7s ease-out;
+ 	display: flex;
+ 	flex-direction: row;
+ 	justify-content: space-between;
+ }
+
+ h3{
+	margin-bottom: 10px;
+ }
+
+.tipo1{
+		width: 26%;
+		display: inline-block;
+        vertical-align: top;
+        margin: 3%;
+        margin-top: 0;
+		margin-bottom: 5px;
+        box-sizing:boder-box;
+
+		margin-left: 0px;
+       
+       }
+
+.tipo1 ul{
+		
+		padding-left: 0px;
+		
+       }
+
+.tipo2 ul{
+		list-style: none;
+		padding-left: 0px;
+		
+       }
+	
+.tipo2 {
+		
+		margin-left: 0px;
+       }
+
+ .centro{
+ 	padding-right: 20px;
+ } 
+ .ultimo{
+ 	margin-right: 0px;
+ 	width: 55%;
+ 	text-align: center;
+ } 
+ .fa{
+ 	margin-right: 10px;
+ } 
+
+
+ /* fin parrafos con datos */ 
